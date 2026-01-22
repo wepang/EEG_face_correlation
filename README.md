@@ -1,4 +1,1 @@
-# EEG_face_correlation
-The code folder contains the facial labeling source code and the EEG classification source code for the paper.
-The train_set folder contains the training set that has been preprocessed and feature extracted by matlab and EEGlab.
-If you need the raw data and matlab processing related code you can contact the author.
+The code folder contains the facial labeling source code and the EEG classification source code for the paper "A Multimodal Framework for Engagement Recognition in HRI Teaching Scenarios: Combining Facial Features and EEG". However, the original EEG signals and facial video datasets used in the experiments cannot be publicly shared due to participant privacy and data protection regulations.
